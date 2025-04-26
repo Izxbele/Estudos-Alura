@@ -20,6 +20,7 @@ Os conteúdos estão organizados por tema em pastas separadas, facilitando a nav
 ├── 📁 Modelagem de dados/
 │   └── Modelo Conceitual
 │   └──Modelo Lógico
+```
 
 > As pastas podem ser atualizadas conforme avanço em novos cursos ou reviso conteúdos anteriores.
 
