@@ -5,7 +5,7 @@ Os conteúdos estão organizados por tema em pastas separadas, facilitando a nav
 
 ## 🗂 Estrutura do Repositório
 
-📁 Estudos-Alura/
+```📁 Estudos-Alura/
 ├── 📁 logica-de-programacao-com-js/
 │   └── Mergulhando em js
 │   └── Funçoes e listas
