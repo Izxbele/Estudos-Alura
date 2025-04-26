@@ -6,7 +6,7 @@ Os conteúdos estão organizados por tema em pastas separadas, facilitando a nav
 ## 🗂 Estrutura do Repositório
 
 📁 Estudos-Alura/
-├── 📁 lógica-de-programação-com-js/
+├── 📁 logica-de-programacao-com-js/
 │   └── Mergulhando em js
 │   └── Funçoes e listas
 ├── 📁 HTML-CSS-JS/
@@ -19,7 +19,7 @@ Os conteúdos estão organizados por tema em pastas separadas, facilitando a nav
 │   └── Funções e estrtutura de dados
 ├── 📁 Modelagem de dados/
 │   └── Modelo Conceitual
-│   └── Modelo Lógico
+│   └──Modelo Lógico
 
 > As pastas podem ser atualizadas conforme avanço em novos cursos ou reviso conteúdos anteriores.
 
