@@ -1,4 +1,4 @@
-# 📚 Exercícios dos Cursos da Alura
+# 📚 Exercícios e desafios dos Cursos da Alura
 
 Este repositório contém os exercícios práticos que desenvolvi durante meus estudos na plataforma [Alura](https://www.alura.com.br).  
 Os conteúdos estão organizados por tema em pastas separadas, facilitando a navegação e o acompanhamento do meu progresso.
