@@ -15,9 +15,12 @@ Os arquivos sao notebooks do Google Colab que foram baixados e organizados em pa
 
 ## Como usar
 
-1. Acesse o Google Colab (https://colab.research.google.com/) e abra o notebook desejado diretamente do seu computador ou importe do GitHub.
+1. Clone este repositorio para sua maquina:
+git clone https://github.com/Izxbele/Estudos-Alura.git
 
-2. Ou, se preferir, abra os arquivos `.ipynb` usando o Jupyter Notebook ou o VSCode com extensao para notebooks.
+2. Acesse o Google Colab (https://colab.research.google.com/) e abra o notebook desejado diretamente do seu computador ou importe do GitHub.
+
+3. Ou, se preferir, abra os arquivos `.ipynb` usando o Jupyter Notebook ou o VSCode com extensao para notebooks.
 
 ## Objetivo
 
