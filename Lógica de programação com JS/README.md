@@ -1,30 +1,27 @@
-# Estudos de JavaScript - Alura
+# Lógica de Programação com JavaScript - Alura
 
-Esta pasta reune meus exercicios e praticas realizados nos cursos de JavaScript da Alura.
+Esta pasta reune meus exercicios e praticas realizados nos cursos de logica de programacao usando JavaScript na plataforma Alura.
 
-## Estrutura dos Arquivos
-
-- **Lógica de programação com JS/**  
-  Exercicios praticos para desenvolver a logica de programacao usando JavaScript, incluindo estruturas condicionais e loops.
+## Estrutura das Subpastas
 
 - **Funções e listas/**  
-  Estudos sobre como criar funcoes em JavaScript e como manipular listas (arrays), incluindo metodos como push, pop, e forEach.
+  Exercicios praticos sobre como criar funcoes em JavaScript e como trabalhar com listas (arrays), incluindo metodos como push, pop e forEach.
 
 - **Mergulhando em JS/**  
-  Conteudos mais avancados para aprofundar os conhecimentos em JavaScript, trabalhando com conceitos modernos da linguagem.
+  Conteudos para aprofundar a logica com JavaScript, praticando estruturas mais avancadas e desafios de programacao.
 
 ## Como usar
 
 1. Clone este repositorio para sua maquina:
 git clone https://github.com/Izxbele/Estudos-Alura.git
 
-2. Navegue ate esta pasta e abra os arquivos `.html` ou `.js` no seu navegador ou editor de codigo (como VSCode).
+2. Navegue ate a pasta `Lógica de programação com JS` e abra os arquivos `.html` ou `.js` no seu navegador ou editor de codigo (como VSCode).
 
 3. Edite e execute os codigos para praticar e experimentar.
 
 ## Objetivo
 
-Registrar minha evolucao nos estudos de JavaScript e praticar a criacao de codigos mais eficientes e modernos.
+Registrar minha evolucao na logica de programacao usando JavaScript e praticar a resolucao de desafios com codigo mais eficiente.
 
 ---
 
