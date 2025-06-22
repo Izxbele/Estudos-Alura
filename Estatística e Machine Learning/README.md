@@ -1,60 +1,58 @@
-# 📊 Estatística com Python
+# Estatística com Python: Resumo e Análise de Dados
 
-Este repositório contém dois notebooks desenvolvidos durante o curso **"Estatística com Python: resumindo e analisando dados"** da Alura. Os materiais abordam conceitos fundamentais de estatística descritiva aplicados com a linguagem Python.
+Este repositório contém materiais desenvolvidos como parte do curso **"Estatística com Python: resumindo e analisando dados"**, oferecido pela [Alura](https://www.alura.com.br/). Os notebooks apresentam conteúdos teóricos e práticos com foco em análise estatística descritiva utilizando a linguagem Python.
 
----
+## Estrutura do Repositório
 
-## 🗂️ Conteúdo dos Arquivos
+- `Aula_statística.ipynb`: Notebook principal com os conteúdos abordados nas aulas, incluindo explicações conceituais, exemplos práticos e visualizações.
+- `Desafios.estatistica.ipynb`: Notebook destinado à realização de atividades práticas (desafios), que reforçam a aplicação dos conceitos abordados ao longo do curso.
 
-### 1. `Aula_statística.ipynb`
-Notebook principal do curso, com o conteúdo teórico e prático das aulas.
+## Objetivos
 
-**Título:**
-> Estatística com Python: resumindo e analisando dados
+- Aplicar técnicas de estatística descritiva com Python.
+- Analisar um conjunto de dados reais da **Pesquisa Nacional por Amostra de Domicílios - PNAD 2015 (IBGE)**.
+- Interpretar e visualizar informações por meio de gráficos e medidas estatísticas.
 
-**Descrição:**
-Este notebook reúne explicações, exemplos e análises estatísticas feitas com bibliotecas como `pandas`, `numpy`, `matplotlib`, e `seaborn`. Ele apresenta conceitos como:
+## Conteúdos Abordados
 
-- Tipos de variáveis
-- Medidas de tendência central (média, mediana, moda)
-- Medidas de dispersão (amplitude, variância, desvio padrão)
-- Visualização de dados (boxplots, histogramas, etc.)
+- Tipos de variáveis e dados
+- Medidas de tendência central:
+  - Média
+  - Mediana
+  - Moda
+- Medidas de dispersão:
+  - Amplitude
+  - Variância
+  - Desvio padrão
+- Medidas separatrizes:
+  - Quartis
+  - Decis
+  - Percentis
+- Visualização de dados:
+  - Histogramas
+  - Boxplots
+  - Gráficos de barras e dispersão
 
----
+## Conjunto de Dados
 
-### 2. `Desafios.estatistica.ipynb`
-Notebook voltado para os exercícios práticos ("Mão na Massa") do curso.
+A base utilizada nos desafios é derivada da **PNAD 2015**, disponibilizada pelo IBGE. O foco da análise está em atributos demográficos e econômicos.
 
-**Sobre:**
-Este arquivo é um espaço interativo para aplicar os conceitos estudados por meio de desafios.
+## Requisitos e Instalação
 
-**Descrição do desafio:**
-> Realizar uma **análise descritiva** de um conjunto de dados da **Pesquisa Nacional por Amostra de Domicílios - 2015 (PNAD)** do IBGE. As tarefas incluem:
+### Ambiente
 
-- Identificação de tipos de dados
-- Análise de distribuições
-- Cálculo de medidas estatísticas
-- Geração de gráficos estatísticos
+Este projeto foi desenvolvido em **Python 3** e executado em ambiente **Jupyter Notebook**.
 
----
+### Bibliotecas
 
-## 🧰 Tecnologias e Bibliotecas
+As bibliotecas utilizadas incluem:
 
-- Python 3.x
-- Jupyter Notebook
-- pandas
-- numpy
-- matplotlib
-- seaborn
+- `pandas`
+- `numpy`
+- `matplotlib`
+- `seaborn`
 
----
+Para instalação:
 
-## 📌 Requisitos
-
-Para executar os notebooks localmente, você precisa de:
-
-- Python instalado com gerenciador de pacotes (`pip`)
-- Jupyter Notebook (`pip install notebook`)
-- Instalação das bibliotecas usadas:  
-  ```bash
-  pip install pandas numpy matplotlib seaborn
+```bash
+pip install pandas numpy matplotlib seaborn
