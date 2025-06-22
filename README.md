@@ -19,7 +19,17 @@ Os conteúdos estão organizados por tema em pastas separadas, facilitando a nav
 │   └── Funções e estrtutura de dados
 ├── 📁 Modelagem de dados/
 │   └── Modelo Conceitual
-│   └──Modelo Lógico
+│   └── Modelo Lógico
+├── 📁 Aprendendo a fazer ETL/
+│   └── Numpy
+│   └── Pandas: conhecendo a biblioeca
+│   └── Pandas I\O: trabalhado com diferentes formatos de arquivos
+│   └── Pandas: transformação e manipulação de dados
+│   └── Data Visualization: criando gráficos com bibliotecas Python
+│   └── IA aplicada a Data Science: utilizando IA na construção de visualização de dados
+├── 📁 Estatística e Machine Learning
+│   └── Estatística com Python: resumindo e analisando dados
+│   └── ...
 ```
 
 > As pastas podem ser atualizadas conforme avanço em novos cursos ou reviso conteúdos anteriores.
@@ -35,8 +45,12 @@ Cada exercício é uma oportunidade de fixar o conteúdo e desenvolver autonomia
 - JavaScript
 - HTML e CSS
 - Git e GitHub
+- Matplotlib e Seaborn
 - Ferramentas de versionamento, testes e deploy
 - Lógica de programação e estruturas de dados
+- Análise de dados com Pandas
+- Estatística aplicada
+- Processos ETL
 
 ## 📝 Observações
 
